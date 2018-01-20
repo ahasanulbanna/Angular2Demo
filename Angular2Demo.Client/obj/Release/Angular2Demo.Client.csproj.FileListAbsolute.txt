@@ -1,0 +1,9 @@
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\bin\Angular2Demo.Client.dll.config
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\bin\Angular2Demo.Client.dll
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\bin\Angular2Demo.Client.pdb
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\obj\Release\Angular2Demo.Client.csprojResolveAssemblyReference.cache
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\obj\Release\Angular2Demo.Client.csproj.CoreCompileInputs.cache
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\obj\Release\Angular2Demo.Client.dll
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Client\obj\Release\Angular2Demo.Client.pdb

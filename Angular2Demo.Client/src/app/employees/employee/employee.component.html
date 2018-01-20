@@ -1,0 +1,35 @@
+﻿<div class="jumbotron text-center">
+    <h1>  Employee Registration Form</h1>
+</div>
+<div class="container">
+
+    <form class="form-horizontal emp-form" #employeeForm="ngForm" (ngSubmit)="onSubmit(employeeForm)">
+        
+            <div class="form-group col-lg-8">
+                <input class="form-control" name="FistName" #FistName="ngModel" [(ngModel)]="employeeServic.Selectedemployee.FistName" placeholder="FirstName" required />
+            </div>
+            <div class="validation-error" *ngIf="FistName.invalid && FistName.touched" style="color:red;">This Field Is Required</div>
+        <div class="form-group col-lg-8">
+            <input type="text" class="form-control" name="LastName" #LastName="ngModel" [(ngModel)]="employeeServic.Selectedemployee.LastName" placeholder="LastName" />
+        </div>
+        <div class="form-group col-lg-8">
+            <input type="text" class="form-control" name="Position" #Position="ngModel" [(ngModel)]="employeeServic.Selectedemployee.Position" placeholder="Position" />
+        </div>
+        <div class="form-group col-lg-8">
+            <input type="text" class="form-control" name="EmpCode" #EmpCode="ngModel" [(ngModel)]="employeeServic.Selectedemployee.EmpCode" placeholder="EmpCode" />
+        </div>
+        <div class="form-group col-lg-8">
+            <input type="text" class="form-control" name="Office" #Office="ngModel" [(ngModel)]="employeeServic.Selectedemployee.Office" placeholder="Office" />
+        </div>
+        <div class="form-group col-lg-8">
+            <button [disabled]="!employeeForm.valid" type="submit" class="btn btn-block">Submit</button>
+        </div>
+        <div class="form-group col-lg-8">
+            <button class="btn btn-block" (click)="resetForm(employeeForm)">Reset</button>
+        </div>
+    </form>
+</div>
+
+
+
+

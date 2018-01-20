@@ -1,0 +1,47 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+</head>
+<body>
+
+    <h1>Employee List </h1>
+    <div class="container">
+        <table class="table table-condensed table-bordered" id="printSectionId">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Employee Code</th>
+                    <th>Position</th>
+                    <th>Office</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let employee of employeeService.employeeList;let i=index">
+                    <th>{{i}}</th>
+                    <td>{{employee.FistName}}</td>
+                    <td>{{employee.LastName}}</td>
+                    <td>{{employee.EmpCode}}</td>
+                    <td>{{employee.Position}}</td>
+                    <td>{{employee.Office}}</td>
+                    <td>
+                        <a class="btn" (click)="showForEdit(employee)">Edit</a>
+                        <a class="btn btn-danger" (click)="onDelete(employee.EmployeeId)">Delete</a>
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+    
+
+    <button (click)="printContent('printSectionId')" class="button">Print</button>
+
+
+</body>
+</html>
+
+
+

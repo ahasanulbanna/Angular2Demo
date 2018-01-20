@@ -1,0 +1,13 @@
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\bin\Debug\Angular2Demo.Models.dll.config
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\bin\Debug\Angular2Demo.Models.dll
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\bin\Debug\Angular2Demo.Models.pdb
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\bin\Debug\EntityFramework.dll
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\bin\Debug\EntityFramework.xml
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\obj\Debug\Angular2Demo.Models.csproj.CoreCompileInputs.cache
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\obj\Debug\Angular2Demo.Models.dll
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\obj\Debug\Angular2Demo.Models.pdb
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\obj\Debug\Angular2Demo.Models.Migrations.FistCreate.resources
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\obj\Debug\Angular2Demo.Models.csproj.GenerateResource.Cache
+C:\Users\ahasa_000\source\repos\Angular2Demo\Angular2Demo.Models\obj\Debug\Angular2Demo.Models.csprojResolveAssemblyReference.cache
